@@ -1,0 +1,22 @@
+Teil Norbert:
+
+-Die Software-Ergonomie beschäftigt sich mit menschlichen Wahrnehmen, Verstehen, Behalten, Erwartungen und Gewohnheiten.
+
+-Die menschlichen Fähigkeiten zur Verarbeitung von Informationen müssen berücksichtigt werden.
+-Zu Beachtende Punkte bei Softwareergonomie:
+Benutzerfreundlichkeit
+Benutzbarkeit
+Gebrauchstauglichkeit
+Bedienungsfreundlichkeit
+Bedienbarkeit
+
+-Erwarten Beispiel:
+Wenn der Benutzer andere Erwartungen hinsichtlich der Funktionsweise und der Bedienung des Systems hat, treten unverschuldete Fehler auf. Ein erhöhter Zeitaufwand ist die Folge.
+Beispiel: In einer Textverarbeitung zum Schreiben von SMS in einem Handy wird nach jedem Punkt automatisch der Buchstabe groß gestellt. Die Anwendung erkennt jedoch nicht, ob der Punkt mitten im Satz nach einer Abkürzung gesetzt wird oder am Satzende. Da der Benutzer die Großstellung im Satz nicht erwartet, vergisst er immer wieder, diese zu korrigieren.
+
+-Sich an etwas gewöhnen Beispiel
+Bei häufiger Anwendung gewöhnt sich der Benutzer an die geforderten Eingaben und die programmierten Reaktionen der Anwendung.
+Beispiel: Die Anwendung warnt den Benutzer in einer Meldung davor, dass geänderte Daten beim Anzeigen eines anderen Kunden verloren gehen und fordert ihn auf, sie zuerst zu speichern. Eine andere Anwendung bringt jedoch keine Meldung. Dadurch werden geänderte Daten ohne Meldung überschrieben, was zur erneuten zeitaufwändigen Eingabe der Änderungen führt, da der Benutzer sich an die Meldung gewöhnt hat.
+
+Beispielbilder DeskCenter in Sicht der o.g. Kriterien
+
